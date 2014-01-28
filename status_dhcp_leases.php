@@ -3,6 +3,7 @@
 /*
 	status_dhcp_leases.php
 	Copyright (C) 2004-2009 Scott Ullrich
+	Copyright (C) 2014 Bryan Paradis - DHCP Option 82
 	All rights reserved.
 
 	originially part of m0n0wall (http://m0n0.ch/wall)
